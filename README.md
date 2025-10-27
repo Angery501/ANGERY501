@@ -16,7 +16,6 @@
 <h1 align="center">¡Hola, soy Aracely 👋</h1>
 
 <p align="center">
-  [![Followers](https://img.shields.io/github/followers/Angery501?label=Followers&style=flat-square)](https://github.com/Angery501?tab=followers)
   <img src="https://img.shields.io/github/repo-size/Angery501/INF111-LIC-FELIPEZ?label=Repo%20size&style=flat-square" alt="Repo size" />
   <img src="https://img.shields.io/github/languages/top/Angery501/INF111-LIC-FELIPEZ?style=flat-square" alt="Top langs" />
   <img src="https://img.shields.io/github/stars/Angery501/INF111-LIC-FELIPEZ?label=Stars&style=flat-square" alt="Stars" />
@@ -89,7 +88,7 @@ Sugerencia: pinea estos repos en tu perfil para que sean lo primero que la gente
   </a>
   &nbsp;&nbsp;
   <!-- Facebook: reemplaza FACEBOOK_LINK por tu perfil o página -->
-  <a href="[FACEBOOK_LINK](https://www.facebook.com/share/17TVaBS61n/)" target="_blank" rel="noopener">
+  <a href="(https://www.facebook.com/share/17TVaBS61n/)" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="64" />
   </a>
 </p>
