@@ -51,13 +51,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Angery501&theme=dark" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Angery501&theme=react-dark" alt="Contribution graph" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angery501&theme=flat&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
@@ -66,9 +60,7 @@
 - [PRACTICAI-INF111](https://github.com/Angery501/PRACTICAI-INF111) 
 - [PROGRAMACION-II](https://github.com/Angery501/PROGRAMACION-II) 
 
-Sugerencia: pinea estos repos en tu perfil para que sean lo primero que la gente vea.
 
----
 
 ## 📫 Contáctate conmigo
 <p align="center">
@@ -79,7 +71,7 @@ Sugerencia: pinea estos repos en tu perfil para que sean lo primero que la gente
   &nbsp;&nbsp;
   <!-- Discord: reemplaza DISCORD_LINK por tu invite o enlace de perfil -->
   <a href="Angery501" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="64" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Angery501" height="64" />
   </a>
   &nbsp;&nbsp;
   <!-- WhatsApp: reemplaza WA_NUMBER por tu número en formato internacional sin signos -->
@@ -88,7 +80,7 @@ Sugerencia: pinea estos repos en tu perfil para que sean lo primero que la gente
   </a>
   &nbsp;&nbsp;
   <!-- Facebook: reemplaza FACEBOOK_LINK por tu perfil o página -->
-  <a href="(https://www.facebook.com/share/17TVaBS61n/)" target="_blank" rel="noopener">
+  <a href="https://www.facebook.com/share/17TVaBS61n/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="64" />
   </a>
 </p>
